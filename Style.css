@@ -1,0 +1,10 @@
+body {
+    background: red;
+}
+
+#Camera,#Result {
+    width: 300px;
+    height: 300px;
+    border: black solid;
+    border-radius: 15px;
+}
